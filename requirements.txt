@@ -1,0 +1,14 @@
+certifi==2020.11.8
+chardet==3.0.4
+dataclasses==0.6
+future==0.18.2
+idna==2.10
+numpy==1.19.4
+opencv-python==4.4.0.46
+Pillow==8.0.1
+requests==2.25.0
+six==1.15.0
+torch==1.7.0
+torchvision==0.8.1
+typing-extensions==3.7.4.3
+urllib3==1.26.2
